@@ -1,5 +1,5 @@
 # Collection-List
-compare collection with list
+compare collection with list.
 list is extends from collection , it has all collection's method ,
 and list add some method such as 
 
